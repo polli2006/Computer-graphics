@@ -1,13 +1,13 @@
-# Gear project - repair mechanism
+# "Repair mechanism" project
 
-The goal of this computer graphic project is image analisys and search of missing and broken gear and its "repair".
+The goal of this computer graphics project is image analysis, search of missing or broken gear and its "repair".
 
-Language: C++.
+Language: GNU C++.
 <img src="gear_project/pic/0001.bmp"/>
 <img src="gear_project/out.bmp"/>
 <img src="gear_project/pic/0008.bmp"/>
 
-## Main algorithms:
+## Main used algorithms
  
 <li>Image binarization
 
@@ -15,9 +15,22 @@ Language: C++.
 
 <li>Paste suitable gear
 
-<li>Search of broaken gear and repair
+<li>Search of broken gear and repair
 
-<li>Noise delection
+<li>Noise reduction
 
-## How to execute
+## How to compile and execute
 
+To compile the project, please go to project's root folder and run
+
+```bash
+make all
+```
+
+To execute the project, please go to build/bin project's folder
+
+```bash
+./main
+```
+
+(or ```main.exe``` in case of Windows).
