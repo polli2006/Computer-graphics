@@ -4,9 +4,10 @@ The goal of this computer graphic project is image analisys and search of missin
 
 Language: C++. Compiler: Microsoft Visual C++
 <img src="gear_project/pic/0001.bmp"/>
-<img src="gear_project/pic/0008.bmp"/>
 <img src="gear_project/out.bmp"/>
- ## Main algorithms:
+<img src="gear_project/pic/0008.bmp"/>
+
+## Main algorithms:
  
 <li>Image binarization
 
