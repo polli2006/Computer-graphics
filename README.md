@@ -1,12 +1,5 @@
 # Gear progect - repair mechanism
 
+The goal of this computer graphic project is image analisys and search of missing and broken gear and its "repair".
 
-Заголовок первого уровня (h1)
-===================================
-Заголовок второго уровня (h2)
--------------------------------------------
-# Заголовок третьего уровня (h3)
-## Заголовок четвёртого уровня (h4)
-### Заголовок пятого уровня (h5)
-#### Заголовок шестого уровня (h6)
-This computer graphic project is simulation of 
+Language: C++. Compiler: Microsoft Visual C++
