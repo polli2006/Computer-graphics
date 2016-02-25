@@ -2,7 +2,7 @@
 
 The goal of this computer graphic project is image analisys and search of missing and broken gear and its "repair".
 
-Language: C++. Compiler: Microsoft Visual C++
+Language: C++.
 <img src="gear_project/pic/0001.bmp"/>
 <img src="gear_project/out.bmp"/>
 <img src="gear_project/pic/0008.bmp"/>
@@ -16,3 +16,8 @@ Language: C++. Compiler: Microsoft Visual C++
 <li>Paste suitable gear
 
 <li>Search of broaken gear and repair
+
+<li>Noise delection
+
+## How to execute
+
