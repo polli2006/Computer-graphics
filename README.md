@@ -6,3 +6,8 @@ Language: C++. Compiler: Microsoft Visual C++
 <img src="gear_project/pic/0001.bmp"/>
 <img src="gear_project/pic/0008.bmp"/>
 <img src="gear_project/out.bmp"/>
+<li> Main algorithms
+*Image binarization
+*Objects separation and classification (axis or gear)
+*Paste suitable gear
+*Search of broaken gear and repair
