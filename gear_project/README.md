@@ -3,9 +3,9 @@
 The goal of this computer graphics project is image analysis, search of missing or broken gear and its "repair".
 
 Language: GNU C++.
-<img src="pic/0001.bmp"/>
-<img src="out.bmp"/>
-<img src="pic/0008.bmp"/>
+<img src="examples/1.jpg"/>
+<img src="examples/2.jpg"/>
+<img src="examples/3.jpg"/>
 
 ## Main used algorithms
  
